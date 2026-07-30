@@ -1,4 +1,4 @@
-# Week 1 Exercise - Python Fundamentals
+# Exercise - Python Fundamentals
 
 ## Overview
 
